@@ -1,7 +1,7 @@
 # 📊 Projeto de SQL + Excel: Análise de Perfil dos Clientes
 
 Este projeto foi desenvolvido como parte do curso **SQL para Análise de Dados (Udemy)**.  
-Ele representa o **Projeto Final da Aula 2**, no qual realizamos uma **Análise de Perfil dos Clientes** utilizando **PostgreSQL** para consultas SQL e **Excel** para construção do dashboard.
+Ele representa o **Projeto Final**, no qual realizamos uma **Análise de Perfil dos Clientes** utilizando **PostgreSQL** para consultas SQL e **Excel** para construção do dashboard.
 
 ---
 
