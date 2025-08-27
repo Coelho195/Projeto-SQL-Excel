@@ -33,12 +33,12 @@ O objetivo foi praticar todas as etapas de um processo de análise de dados, des
 
 ## 📊 Insights Obtidos
 Durante a análise, respondemos a perguntas de negócio como:
-- **Gênero dos leads** (60% homens e 40% mulheres).  
+- **Gênero dos leads** (60% Mulheres e 40% Homens).  
 - **Status profissional** (predomínio de CLT com 65%).  
 - **Faixa etária** (maioria entre 20-40 anos).  
 - **Faixa salarial** (71% entre 5k e 10k).  
 - **Classificação dos veículos** (96% seminovos).  
-- **Idade dos veículos mais visitados** (48% entre 6 a 10 anos).  
+- **Idade dos veículos mais visitados** (25% entre 8 a 10 anos).  
 - **Modelos mais visitados** (Fiat, Chevrolet e Volkswagen lideram).  
 
 ---
