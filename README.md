@@ -19,16 +19,15 @@ O objetivo foi praticar todas as etapas de um processo de análise de dados, des
 ## 📸 Prints do Projeto
 
 ### 🔹 Dashboard Final (Excel)
-![Dashboard](./imagens/Dashboard Excel.PNG)
-
+![Dashboard](Excel.PNG)
 ### 🔹 Tabelas de Output
-![Output](./imagens/Output.PNG)
+![Output](Output.PNG)
 
 ### 🔹 Queries Documentadas
-![Queries](./imagens/Queries.PNG)
+![Queries](Queries.PNG)
 
 ### 🔹 Execução das Queries no PostgreSQL
-![PostgreSQL](./imagens/PostgreSQL.PNG)
+![PostgreSQL](PostgreSQL.PNG)
 
 ---
 
@@ -44,7 +43,7 @@ Durante a análise, respondemos a perguntas de negócio como:
 
 ---
 
-## 🚀 Aprendizados
+## Aprendizados
 - Estruturar queries SQL do **básico ao avançado**.  
 - Documentar queries com clareza.  
 - Conectar os resultados SQL ao Excel.  
@@ -54,6 +53,6 @@ Durante a análise, respondemos a perguntas de negócio como:
 ---
 
 
-👩‍💻 **Autora:** [Isabella Thereza]  
+👩‍💻 **Autora:** Isabella Thereza  
 📅 **Data:** Agosto/2025  
 📚 Projeto realizado durante o curso *SQL para Análise de Dados (Udemy)*.
